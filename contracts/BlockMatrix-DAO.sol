@@ -18,10 +18,8 @@ require(!proposal.executed,already>"Nocast");
 
 proposal.executedtrue;
 emitupdate
+End
 // 
- 
-Updated on 2025-11-05
- 
 // 
 End
 // 
