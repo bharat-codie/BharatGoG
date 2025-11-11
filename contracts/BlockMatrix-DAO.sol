@@ -19,6 +19,7 @@ require(!proposal.executed,already>"Nocast");
 proposal.executedtrue;
 emitupdate
 End
+End
 // 
 // 
 End
